@@ -142,7 +142,7 @@ class Manager
      * @param string|int $value
      * @return Tree|null
      */
-    public function recursionFindTree(array $trees, $field, $value)
+    protected function recursionFindTree(array $trees, $field, $value)
     {
         $tree = null;
         if (!empty($trees)) {
