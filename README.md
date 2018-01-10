@@ -7,6 +7,11 @@
 
 有Relation_key的关系数据，都可以生成树状的结构
 
+## Install
+```
+$ composer install composer require lambert/tree-shape
+```
+ 
 ## RequireMent
 
 - PHP >= 5.6
