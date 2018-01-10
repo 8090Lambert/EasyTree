@@ -9,7 +9,7 @@
 
 ## Install
 ```
-$ composer install composer require lambert/tree-shape
+$ composer require lambert/tree-shape
 ```
  
 ## RequireMent
